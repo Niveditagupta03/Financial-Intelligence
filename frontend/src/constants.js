@@ -1,0 +1,13 @@
+const PRIMARY_COLOR = "#5F91FF";
+const SECONDARY_COLOR = "#addaff";
+const ACCENT_COLOR = "#54baff";
+const TEXT_COLOR = "#00121f";
+const BACKGROUND_COLOR = "#fbfdff";
+
+export {
+  PRIMARY_COLOR,
+  SECONDARY_COLOR,
+  ACCENT_COLOR,
+  TEXT_COLOR,
+  BACKGROUND_COLOR,
+};
